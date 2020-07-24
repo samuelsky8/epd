@@ -1,0 +1,4 @@
+#define ED133UT2 1301
+#define ED312TT2 3201
+#define EC312TT2 3202
+#define ED420TT1 4201
